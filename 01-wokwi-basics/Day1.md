@@ -31,4 +31,8 @@ Wokwi 기초 01
     -> 의도대로 누른 것만 카운트됨
 - 배운 점 : 버튼 입력은 채터링 때문에 한 번의 입력이 여러 번으로 인식될 수 있음
     디바운싱에서는 "버튼을 누르고 언제부터 측정하는가"가 결과를 바꿈
-    
+
+## 코드
+- [blink.ino](code/blink.ino) : LED 깜빡이기
+- [button.ino](code/button.ino) : 버튼으로 LED 제어 (폴링)
+- [interrupt-debounce.ino](code/interrupt-debounce.ino) : 인터럽트와 디바운싱
