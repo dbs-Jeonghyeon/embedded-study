@@ -38,6 +38,6 @@ C 복습 01
 - [pointer_basic.c](code/pointer_basic.c) : 포인터 기초 (&, *)
 - [pointer_swap.c](code/pointer_swap.c) : 값 전달과 주소 전달 비교
 - [pointer_array_sum.c](code/pointer_array_sum.c) : 배열을 포인터로 순회해 합 구하기
-- [struct_sensor.c](code/struct_sensor.c) : 구조체와 -> 로 원본 수정
-- [bit_ops_simple.c](code/bit_ops_simple.c) : 비트 켜기/끄기/뒤집기/확인
+- [struct_sensor.c](code/struct_sensor.c) : 구조체와 '->' 로 원본 수정
+- [bit_ops_simple.c](code/bit_ops_simple.c) : 비트 켜기, 끄기, 뒤집기
 - [register-blink.ino](code/register-blink.ino) : DDRB, PORTB로 LED 깜빡이기
